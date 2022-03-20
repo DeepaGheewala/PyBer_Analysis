@@ -65,3 +65,15 @@ The Below line chart depicts the weekly data summary for each city type
 	- More marketing in the cities where drivers are less 
 	- Showing benefits of using Pyber rides as rider and as driver
 		
+
+## Resources
+* Application and Libraries
+1) Pandas
+2) Python
+3) Jupyter Notebook 
+
+* Dependencies
+1) Matplotlib
+2) Numpy
+3) Scipy
+4) pyplot  
