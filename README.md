@@ -15,7 +15,7 @@ The analysis of this project will generate a summarized chart for CEO to help an
 	- The average fare per ride for each city type
  	- The average fare per driver for each city type
  	
-*[Line Chart that shows the total weekly of the fares for each type of city](#Line-Chart-Weekly-Data-Summary)
+* [Line Chart that shows the total weekly of the fares for each type of city](#Line-Chart-Weekly-Data-Summary)
 
 ## Results
 
@@ -52,7 +52,7 @@ The two files used for anlayzing the data are:
 	- Fare Range for Urban Area is between $1500-$2500
 	- Around Feb last week there is a spike in Pyber rides in all the three areas. 
 	
-  <img src="https://github.com/DeepaGheewala/PyBer_Analysis/blob/b52c6c23fca4fd6720e756763a8d73dc5880b073/analysis/PyBer_fare_summary.png" />
+  <img src="analysis/PyBer_fare_summary.png" />
   
 ## Summary 
 
