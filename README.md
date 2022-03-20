@@ -23,7 +23,7 @@ The two files used for anlayzing the data are:
  - [City Data](#https://github.com/DeepaGheewala/PyBer_Analysis/blob/09fef76dc97c26e4ac5b90ea6409d7350cbf1088/Resources/city_data.csv) - having the data of driver count for each city and city type
  - [Ride Data](#https://github.com/DeepaGheewala/PyBer_Analysis/blob/09fef76dc97c26e4ac5b90ea6409d7350cbf1088/Resources/rider_data.csv) - having the data of ride counts for each city and city type
 
-### Pyber Summary
+### 1) Pyber Summary
 
   This gives an overall summary for the entire dataset of Pyber riding services for each city type
   <img src="Images/Pyber_Summary.png" />
@@ -46,11 +46,11 @@ The two files used for anlayzing the data are:
 	- Due to less avaibility of drivers compared to rides the fare is higher in Rural compared to Urban.
 
 ### Line Chart Weekly Data Summary
-	The Below line chart depicts the weekly data summary for each city type
-	- Overall fare of Rural Area doesn't exceed $500
-	- Fare Range for Subarban Area is between $600-$1500
-	- Fare Range for Urban Area is between $1500-$2500
-	- Around Feb last week there is a spike in Pyber rides in all the three areas. 
+The Below line chart depicts the weekly data summary for each city type
+- Overall fare of Rural Area doesn't exceed $500
+- Fare Range for Subarban Area is between $600-$1500
+- Fare Range for Urban Area is between $1500-$2500
+- Around  Feb end or March starting there is a spike in Pyber rides in all the three areas. 
 	
   <img src="analysis/PyBer_fare_summary.png" />
   
@@ -60,7 +60,7 @@ The two files used for anlayzing the data are:
 	
 1) *Increase the Drives in Rural and Subarban Areas* - Seeing the data of ratio of Drivers in each city type it clearly shows that *more drivers need to sign up* with Pyber for *Subarban* and *Rural* areas to serve better  
 2) *Reducing the Fare price* - Data shows that avergare rate per ride is 6$ - $10 more in Subarban and Rural areas, which can be reduced and increase the use of Pyber ride service.  
-3) *Plan and prep for special occasions/events* - During the Feb last week there is spike in Pyber rides in all the 3 areas which shows occurance of some event or special day when more rides would be required.  
+3) *Plan and prep for special occasions/events* - During the Feb end or March starting there is spike in Pyber rides in all the 3 areas which shows occurance of some event or special day when more rides would be required.  
 4) *Better Marketing Strategy*  
 	- More marketing in the cities where drivers are less 
 	- Showing benefits of using Pyber rides as rider and as driver
