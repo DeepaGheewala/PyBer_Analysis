@@ -7,7 +7,7 @@ The data generated has been divided into 3 City Types - ***Urban, Suburban and  
 This project is about creating visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.CEO is expert in data Visualization so getting the right charts is very important. The application was created in Python and now to generate the charts we are going to use Pandas and Matplotlib Library
 
 The analysis of this project will generate a summarized chart for CEO to help and determine affordibility and improve the services to server the neighborhoods better.
-* [Pyber Summary of the data for each City Type](#1)-Pyber-Summary)
+* [Pyber Summary of the data for each City Type](#Pyber-Summary)
   This chart will give the following information
 	- The total number of rides for each city type
 	- The total number of drivers for each city type
@@ -23,7 +23,7 @@ The two files used for anlayzing the data are:
  - [City Data](#https://github.com/DeepaGheewala/PyBer_Analysis/blob/09fef76dc97c26e4ac5b90ea6409d7350cbf1088/Resources/city_data.csv) - having the data of driver count for each city and city type
  - [Ride Data](#https://github.com/DeepaGheewala/PyBer_Analysis/blob/09fef76dc97c26e4ac5b90ea6409d7350cbf1088/Resources/rider_data.csv) - having the data of ride counts for each city and city type
 
-### 1) Pyber Summary
+### Pyber Summary
 
   This gives an overall summary for the entire dataset of Pyber riding services for each city type
   <img src="Images/Pyber_Summary.png" />
