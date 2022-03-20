@@ -20,13 +20,13 @@ The analysis of this project will generate a summarized chart for CEO to help an
 ## Results
 
 The two files used for anlayzing the data are:
- - [City Data](#Resources/city_data.csv) - having the data of driver count for each city and city type
- - [Ride Data](#Resources/rider_data.csv) - having the data of ride counts for each city and city type
+ - [City Data](#/Resources/city_data.csv) - having the data of driver count for each city and city type
+ - [Ride Data](#/Resources/rider_data.csv) - having the data of ride counts for each city and city type
 
 ### 1) Pyber Summary
 
   This gives an overall summary for the entire dataset of Pyber riding services for each city type
-  <img src="https://github.com/DeepaGheewala/PyBer_Analysis/blob/b52c6c23fca4fd6720e756763a8d73dc5880b073/Images/Pyber_Summary.png" />
+  <img src="Images/Pyber_Summary.png" />
 
  The above data clearly shows that Pyber has been extremely popular and widely used service in Urban areas.
  - **The total number of rides for each city type** 
