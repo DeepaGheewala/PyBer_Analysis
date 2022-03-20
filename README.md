@@ -20,10 +20,10 @@ The analysis of this project will generate a summarized chart for CEO to help an
 ## Results
 
 The two files used for anlayzing the data are:
- - [City Data](#/Resources/city_data.csv) - having the data of driver count for each city and city type
- - [Ride Data](#/Resources/rider_data.csv) - having the data of ride counts for each city and city type
+ - [City Data](#https://github.com/DeepaGheewala/PyBer_Analysis/blob/09fef76dc97c26e4ac5b90ea6409d7350cbf1088/Resources/city_data.csv) - having the data of driver count for each city and city type
+ - [Ride Data](#https://github.com/DeepaGheewala/PyBer_Analysis/blob/09fef76dc97c26e4ac5b90ea6409d7350cbf1088/Resources/rider_data.csv) - having the data of ride counts for each city and city type
 
-### 1) Pyber Summary
+### Pyber Summary
 
   This gives an overall summary for the entire dataset of Pyber riding services for each city type
   <img src="Images/Pyber_Summary.png" />
@@ -45,7 +45,7 @@ The two files used for anlayzing the data are:
  - **The average fare per driver for each city type**
 	- Due to less avaibility of drivers compared to rides the fare is higher in Rural compared to Urban.
 
-### 2) Line-Chart-Weekly-Data-Summary
+### Line Chart Weekly Data Summary
 	The Below line chart depicts the weekly data summary for each city type
 	- Overall fare of Rural Area doesn't exceed $500
 	- Fare Range for Subarban Area is between $600-$1500
