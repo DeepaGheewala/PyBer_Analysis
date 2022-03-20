@@ -56,7 +56,7 @@ The Below line chart depicts the weekly data summary for each city type
   
 ## Summary 
 
- By Analyzing the pyber data and charts here are some suggestions  
+ By Analyzing the pyber data files and charts here are some suggestions  
 	
 1) **Increase the Drives in Rural and Subarban Areas** - Seeing the data of ratio of Drivers in each city type it clearly shows that *more drivers need to sign up* with Pyber for *Subarban* and *Rural* areas to serve better  
 2) **Reducing the Fare price** - Data shows that avergare rate per ride is 6$ - $10 more in Subarban and Rural areas, which can be reduced and increase the use of Pyber ride service.  
